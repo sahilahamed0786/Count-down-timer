@@ -1,0 +1,23 @@
+.button {
+    margin: 10px;
+   background-color: green;
+    
+}
+.input{
+    border: 1px solid;
+    margin: 10px ;
+    padding: 5px;
+    background: aquamarine;
+
+}
+.inputbuttonContainer{
+    border: 3px solid;
+    margin: 3px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
